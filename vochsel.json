@@ -1,0 +1,271 @@
+{
+    "meta": {
+        "name": "vochsel's holme",
+        "width": 5,
+        "depth": 5,
+        "height": 2
+    },
+    "objects": [
+        {
+            "type": "image",
+            "src": "https://i.imgur.com/JBE1aDq.jpg",
+            "meta": {
+                "title": "",
+                "desc": "",
+                "payment_terminal": "",
+                "payment_link": "",
+                "tags": [],
+                "kind": "static"
+            },
+            "transform": {
+                "pos": {
+                    "x": -12,
+                    "y": 4.15,
+                    "z": 6
+                },
+                "rotation": {
+                    "x": 0,
+                    "y": 1.5707963267948966,
+                    "z": 0
+                },
+                "scale": {
+                    "x": 0.6126199999999999,
+                    "y": 0.6126199999999999,
+                    "z": 0.6126199999999999
+                }
+            }
+        },
+        {
+            "type": "image",
+            "src": "https://i.imgur.com/MiZZflp.jpg",
+            "meta": {
+                "title": "",
+                "desc": "",
+                "payment_terminal": "",
+                "payment_link": "",
+                "tags": [],
+                "kind": "static"
+            },
+            "transform": {
+                "pos": {
+                    "x": -12,
+                    "y": 5.45,
+                    "z": -7.800000000000001
+                },
+                "rotation": {
+                    "x": 0,
+                    "y": 1.5707963267948966,
+                    "z": 0
+                },
+                "scale": {
+                    "x": 0.6203175,
+                    "y": 0.6203175,
+                    "z": 0.6203175
+                }
+            }
+        },
+        {
+            "type": "image",
+            "src": "https://i.imgur.com/ICbtkov.jpg",
+            "meta": {
+                "title": "",
+                "desc": "",
+                "payment_terminal": "",
+                "payment_link": "",
+                "tags": [],
+                "kind": "static"
+            },
+            "transform": {
+                "pos": {
+                    "x": -11.5,
+                    "y": 4.800000000000001,
+                    "z": -1
+                },
+                "rotation": {
+                    "x": 0,
+                    "y": 1.5707963267948966,
+                    "z": 0
+                },
+                "scale": {
+                    "x": 0.6116305,
+                    "y": 0.6116305,
+                    "z": 0.6116305
+                }
+            }
+        },
+        {
+            "type": "video",
+            "src": "https://i.imgur.com/K50RSjn.mp4",
+            "meta": {
+                "title": "",
+                "desc": "",
+                "payment_terminal": "",
+                "payment_link": "",
+                "tags": [],
+                "kind": "static"
+            },
+            "transform": {
+                "pos": {
+                    "x": 0,
+                    "y": 5,
+                    "z": -12
+                },
+                "rotation": {
+                    "x": 0,
+                    "y": 0,
+                    "z": 0
+                },
+                "scale": {
+                    "x": 1.473438,
+                    "y": 1.473438,
+                    "z": 1.473438
+                }
+            }
+        },
+        {
+            "type": "video",
+            "src": "https://i.imgur.com/t6YreqC.mp4",
+            "meta": {
+                "title": "",
+                "desc": "",
+                "payment_terminal": "",
+                "payment_link": "",
+                "tags": [],
+                "kind": "static"
+            },
+            "transform": {
+                "pos": {
+                    "x": -0.30000000000000004,
+                    "y": 5,
+                    "z": 12
+                },
+                "rotation": {
+                    "x": -3.141592653589793,
+                    "y": 1.2246467991473532e-16,
+                    "z": -3.141592653589793
+                },
+                "scale": {
+                    "x": 1.4824395,
+                    "y": 1.4824395,
+                    "z": 1.4824395
+                }
+            }
+        },
+        {
+            "type": "image",
+            "src": "https://i.imgur.com/RQhcMtB.jpg",
+            "meta": {
+                "title": "",
+                "desc": "",
+                "payment_terminal": "",
+                "payment_link": "",
+                "tags": [],
+                "kind": "static"
+            },
+            "transform": {
+                "pos": {
+                    "x": 10.5,
+                    "y": 3.8000000000000003,
+                    "z": 2.25
+                },
+                "rotation": {
+                    "x": 0,
+                    "y": 1.5707963267948966,
+                    "z": 0
+                },
+                "scale": {
+                    "x": 0.5103805,
+                    "y": 0.5103805,
+                    "z": 0.5103805
+                }
+            }
+        },
+        {
+            "type": "image",
+            "src": "https://i.imgur.com/XvUUwGF.jpg",
+            "meta": {
+                "title": "",
+                "desc": "",
+                "payment_terminal": "",
+                "payment_link": "",
+                "tags": [],
+                "kind": "static"
+            },
+            "transform": {
+                "pos": {
+                    "x": 10.591662766612231,
+                    "y": 5.100000000000001,
+                    "z": -6.405374970293398
+                },
+                "rotation": {
+                    "x": -3.141592653589793,
+                    "y": 1.2391837689159744,
+                    "z": -3.141592653589793
+                },
+                "scale": {
+                    "x": 0.9594705,
+                    "y": 0.9594705,
+                    "z": 0.9594705
+                }
+            }
+        },
+        {
+            "type": "image",
+            "src": "https://i.imgur.com/SOzVcvp.jpg",
+            "meta": {
+                "title": "",
+                "desc": "",
+                "payment_terminal": "",
+                "payment_link": "",
+                "tags": [],
+                "kind": "static"
+            },
+            "transform": {
+                "pos": {
+                    "x": 11,
+                    "y": 5,
+                    "z": 7
+                },
+                "rotation": {
+                    "x": 0,
+                    "y": 1.221730476396032,
+                    "z": 0
+                },
+                "scale": {
+                    "x": 0.9133874999999999,
+                    "y": 0.9133874999999999,
+                    "z": 0.9133874999999999
+                }
+            }
+        },
+        {
+            "type": "model",
+            "src": "https://rawcdn.githack.com/CloudMarketOfficial/holmes-demos/92b30b83c1ac1f450d6522af834a094b2d20283d/egg.glb",
+            "meta": {
+                "title": "",
+                "desc": "",
+                "payment_terminal": "",
+                "payment_link": "",
+                "tags": [],
+                "kind": "static"
+            },
+            "transform": {
+                "pos": {
+                    "x": 6.65,
+                    "y": 1.9500000000000002,
+                    "z": 1.6
+                },
+                "rotation": {
+                    "x": 0,
+                    "y": 0,
+                    "z": 0
+                },
+                "scale": {
+                    "x": 0.55,
+                    "y": 0.55,
+                    "z": 0.55
+                }
+            }
+        }
+    ]
+}
